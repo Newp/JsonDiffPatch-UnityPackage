@@ -5,6 +5,5 @@
     "unity": "2020.1",
     "description": "JsonDiffPatch.NET, imported from NuGet",
     "dependencies": {
-        "edu.umn.cs.ivlab.newtonsoft.json": "git@github.umn.edu/ivlab-cs/NewtonsoftJson-UnityPackage.git#v12.0.3"
     }
 }
